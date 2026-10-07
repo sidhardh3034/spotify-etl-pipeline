@@ -26,6 +26,7 @@ The pipeline:
 
 ## Project Structure
 
+```text
 spotify-etl-pipeline/
 ├── data/
 │   ├── raw/
@@ -42,7 +43,7 @@ spotify-etl-pipeline/
 ├── run_pipeline.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Pipeline Workflow
 
 ```text
